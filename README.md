@@ -1,7 +1,7 @@
 # Free3D
 
 <p align="center">
-  [<a href=""><strong>arXiv</strong></a>]
+  [<a href="https://arxiv.org/pdf/2312.04551.pdf"><strong>arXiv</strong></a>]
   [<a href="https://chuanxiaz.com/free3d/"><strong>Project</strong></a>]
   [<a href="https://youtu.be/7CdYuZ7D1DY"><strong>Video</strong></a>]
   [<a href="#citation"><strong>BibTeX</strong></a>]
