@@ -1,0 +1,17 @@
+pytorch_lightning==1.9.0
+opencv-python==4.9.0.80
+scikit-video==1.1.11
+rembg==2.0.54
+carvekit-colab==4.1.1
+omegaconf==2.3.0
+wandb==0.16.3
+matplotlib==3.8.2
+einops==0.7.0
+scenepic==1.1.0
+taming-transformers==0.0.1
+kornia==0.7.1
+transformers==4.37.2
+lpips==0.1.4
+clean-fid==0.1.35
+git+https://github.com/openai/CLIP.git
+git+https://github.com/facebookresearch/segment-anything.git
