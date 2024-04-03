@@ -85,7 +85,6 @@ pip install -r requirements.txt
 
 ### Pretrained models
 - RCN w/o pseudo 3D attention model is available at [huggingface](https://huggingface.co/lyndonzheng/Free3D/tree/main).
-- All models will be released after ECCV DDL.
 
 ## Related work
 - [Stable Video Diffusion](https://stability.ai/news/stable-video-diffusion-open-ai-video-model) fine-tunes image-to-video diffusion model for multi-view generations.
