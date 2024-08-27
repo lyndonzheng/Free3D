@@ -74,7 +74,7 @@ pip install -r requirements.txt
   # change the finetune_from in train.sh, and run the command
   sh train.sh
   ```
-- The pseudo 3D attention to smooth the consistency is trained with the same command (1 day on 4x A6000), but with different parameters:
+- The pseudo-3D attention to smooth the consistency is trained with the same command (1 day on 4x A6000), but with different parameters:
   ```
   # modify the configs/objaverse.yaml as follows
   views: 4
@@ -108,3 +108,16 @@ If you find our code helpful, please cite our paper:
 
 ## Acknowledgements
 Many thanks to [Stanislaw Szymanowicz](https://dblp.org/pid/295/8991.html), [Edgar Sucar](https://edgarsucar.github.io/), and [Luke Melas-Kyriazi](https://lukemelas.github.io/) of VGG for insightful discussions and [Ruining Li](https://ruiningli.com/), [Eldar Insafutdinov](https://eldar.insafutdinov.com/), and [Yash Bhalgat](https://yashbhalgat.github.io/) of VGG for their helpful feedback. We would also like to thank the authors of [Zero-1-to-3](https://github.com/cvlab-columbia/zero123) and [Objaverse-XL](https://github.com/allenai/objaverse-xl) for their helpful discussions.
+
+
+## License
+ [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
+
+[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
+
+[cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
+[cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
+[cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
